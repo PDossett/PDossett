@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Paul, Technology Infrastructure team Leader at Victoria & Albert Museum 👋
 
 <!--
 **PDossett/PDossett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
